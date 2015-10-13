@@ -23,7 +23,7 @@
     NSMutableArray *itemArray = [NSMutableArray array];
     
     int one = 1;
-    int two;
+    int two = 2;
     int three = 3;
     int four = 4;
     
@@ -31,7 +31,7 @@
     NSString *item2;
     NSString *item3;
     NSString *item4;
-    NSString *item5;
+    //NSString *item5;
     
     item1 = [NSString stringWithFormat:@"%d. Alpha", one];
     item2 = [NSString stringWithFormat:@"%d. Bravo", two];
@@ -41,7 +41,7 @@
     [itemArray addObject:item1];
     [itemArray addObject:item2];
     [itemArray addObject:item3];
-    [itemArray addObject:item5];
+    [itemArray addObject:item4];
     
     NSMutableString *textStrimg;
     

@@ -10,31 +10,31 @@
 	<string>static-analysis-exercises</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>0647B7E8-6BC9-4377-8C49-3D342DD4E3A1</key>
-		<string>https://github.com/Bloc/ios-exercises.git</string>
+		<key>58FAB5F9C616D102DBD8A1135BA15699CFA06FA3</key>
+		<string>github.com:keronakhla/ios-static-analysis-exercises.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>static-analysis-exercises/static-analysis-exercises.xcodeproj/project.xcworkspace</string>
+	<string>static-analysis-exercises.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>0647B7E8-6BC9-4377-8C49-3D342DD4E3A1</key>
-		<string>../../..</string>
+		<key>58FAB5F9C616D102DBD8A1135BA15699CFA06FA3</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Bloc/ios-exercises.git</string>
+	<string>github.com:keronakhla/ios-static-analysis-exercises.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0647B7E8-6BC9-4377-8C49-3D342DD4E3A1</string>
+	<string>58FAB5F9C616D102DBD8A1135BA15699CFA06FA3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0647B7E8-6BC9-4377-8C49-3D342DD4E3A1</string>
+			<string>58FAB5F9C616D102DBD8A1135BA15699CFA06FA3</string>
 			<key>IDESourceControlWCCName</key>
-			<string>static-analysis-exercises</string>
+			<string>ios-static-analysis-exercises</string>
 		</dict>
 	</array>
 </dict>
